@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw56gcf1gv31a"
-path="res://.godot/imported/TopDownHouse_FurnitureState2.png-2ba3f1ee750db62d78ce86a8868afc85.ctex"
+path="res://.godot/imported/TopDownHouse_FurnitureState2.png-e5ba2b949457efb40f09eae6039591a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState2.png"
-dest_files=["res://.godot/imported/TopDownHouse_FurnitureState2.png-2ba3f1ee750db62d78ce86a8868afc85.ctex"]
+source_file="res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState2.png"
+dest_files=["res://.godot/imported/TopDownHouse_FurnitureState2.png-e5ba2b949457efb40f09eae6039591a0.ctex"]
 
 [params]
 
