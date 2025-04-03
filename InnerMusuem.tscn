@@ -1,7 +1,13 @@
-[gd_scene load_steps=3 format=4 uid="uid://cm4vlogtnofo6"]
+[gd_scene load_steps=6 format=4 uid="uid://cm4vlogtnofo6"]
 
 [ext_resource type="TileSet" uid="uid://ce5crmqdfxf8m" path="res://tileset.tres" id="1_42ak6"]
 [ext_resource type="PackedScene" uid="uid://b77b4ni6uh8vp" path="res://Thief.tscn" id="2_b08ww"]
+[ext_resource type="Script" path="res://officer.gd" id="3_c717y"]
+[ext_resource type="Texture2D" uid="uid://bombyirsc15xc" path="res://Guard- front.png" id="4_g82uh"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_6janj"]
+radius = 9.0
+height = 32.0
 
 [node name="Node2D" type="Node2D"]
 
@@ -30,3 +36,26 @@ tile_set = ExtResource("1_42ak6")
 texture_filter = 1
 position = Vector2(369, 558)
 collision_mask = 2
+
+[node name="Officer" type="CharacterBody2D" parent="." node_paths=PackedStringArray("officer")]
+script = ExtResource("3_c717y")
+officer = NodePath("../Thief")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Officer"]
+z_index = 1
+position = Vector2(312, 453)
+shape = SubResource("CapsuleShape2D_6janj")
+
+[node name="Sprite2D" type="Sprite2D" parent="Officer"]
+z_index = 1
+texture_filter = 1
+position = Vector2(313, 453)
+texture = ExtResource("4_g82uh")
+
+[node name="RayCast2D" type="RayCast2D" parent="Officer/Sprite2D"]
+position = Vector2(3, 0)
+target_position = Vector2(136, 0)
+
+[node name="Timer" type="Timer" parent="Officer"]
+
+[connection signal="timeout" from="Officer/Timer" to="Officer" method="_on_timer_timeout"]
