@@ -1,76 +1,77 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1743701083
-Guard- front.png::CompressedTexture2D::3393941050990799608::1743444336::1743628667::1::::<><>::
-Guard- right.png::CompressedTexture2D::1499647787767566393::1743443820::1743628667::1::::<><>::
-Guard-back.png::CompressedTexture2D::4785609614755013381::1743444541::1743628667::1::::<><>::
-Guard-left.png::CompressedTexture2D::8595990198927202257::1743443655::1743628667::1::::<><>::
-icon.svg::CompressedTexture2D::157663094819577650::1743549773::1743628667::1::::<><>::
-InnerMusuem.tscn::PackedScene::5676269891968304303::1743701043::0::1::::<><>::uid://ce5crmqdfxf8m::::res://tileset.tres<>uid://b77b4ni6uh8vp::::res://Thief.tscn
-Outermuseum.png::CompressedTexture2D::5443292922336491081::1743628573::1743628687::1::::<><>::
-OuterMuseum.tscn::PackedScene::7398625629634715679::1743700794::0::1::::<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://ce5crmqdfxf8m::::res://tileset.tres
-README.md::TextFile::-1::1743549773::0::1::::<><>::
-thief.gd::GDScript::-1::1743700689::0::1::::<>CharacterBody2D<>::
-thief.png::CompressedTexture2D::1651249326993630713::1743700689::1743700689::1::::<><>::
-Thief.tscn::PackedScene::4698636969853584693::1743700689::0::1::::<><>::uid://b5v0wd5mce6di::::res://thief.gd<>uid://xr43npldwuqj::::res://thief.png
-tileset.tres::TileSet::5115680522183012330::1743700760::0::1::::<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://co1bxfkvlsoo4::::res://Assets/interior full/basics/wallpapers.png<>uid://ckqt48jgqpib0::::res://Assets/interior full/furniture/decorations.png<>uid://dt88xlr1gp1aw::::res://Assets/interior full/furniture/tables.png<>uid://4h07d5h70bia::::res://Assets/interior full/furniture/wallshelves.png<>uid://bebntqcsmx2xr::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState1.png<>uid://bw56gcf1gv31a::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState2.png
-::res://Assets/::1743550048
-::res://Assets/interior full/::1743628671
-global.png::CompressedTexture2D::7407073584079424026::1638913300::1743628671::1::::<><>::
-info.txt::TextFile::-1::1638911794::0::1::::<><>::
-read me.txt::TextFile::-1::1638911834::0::1::::<><>::
-::res://Assets/interior full/16x16/::1743628668
-bathroom16x16.png::CompressedTexture2D::2644418568159278405::1638902936::1743628667::1::::<><>::
-bathroom16x16_shadow.png::CompressedTexture2D::3445812238514547207::1638903172::1743628667::1::::<><>::
-beds16x16.png::CompressedTexture2D::7410912223282657969::1638911570::1743628668::1::::<><>::
-beds16x16_shadow.png::CompressedTexture2D::1522775969122098078::1638911634::1743628667::1::::<><>::
-couches16x16.png::CompressedTexture2D::8615524409841912967::1638819520::1743628667::1::::<><>::
-couches16x16_shadow.png::CompressedTexture2D::8307214553527121954::1638819730::1743628667::1::::<><>::
-couchtables16x16.png::CompressedTexture2D::89118374360341974::1638912170::1743628667::1::::<><>::
-couchtables16x16_shadow.png::CompressedTexture2D::489506978446668362::1638912184::1743628667::1::::<><>::
-::res://Assets/interior full/basics/::1743628668
-curtains.png::CompressedTexture2D::3470648217347698196::1635119350::1743628668::1::::<><>::
-doors.png::CompressedTexture2D::6438722805908031102::1638676528::1743628667::1::::<><>::
-fireplaces.png::CompressedTexture2D::6619323904514488245::1638747722::1743628667::1::::<><>::
-rugs.png::CompressedTexture2D::6005628174382256352::1638840756::1743628667::1::::<><>::
-stairs.png::CompressedTexture2D::1954503626695106676::1638748648::1743628667::1::::<><>::
-wallpapers.png::CompressedTexture2D::5809261069211151377::1638913314::1743628667::1::::<><>::
-::res://Assets/interior full/doors/::1638676512
-::res://Assets/interior full/fireplace and candles/::1638750890
-::res://Assets/interior full/furniture/::1743628668
-bathroom.png::CompressedTexture2D::7925411882219386635::1638903298::1743628667::1::::<><>::
-bathroom_shadow.png::CompressedTexture2D::5940861733722327713::1638816102::1743628667::1::::<><>::
-beds.png::CompressedTexture2D::7573164741786414670::1638908682::1743628668::1::::<><>::
-beds_shadow.png::CompressedTexture2D::2328820865100881797::1638749498::1743628667::1::::<><>::
-boxes.png::CompressedTexture2D::5047609479383917708::1638563732::1743628667::1::::<><>::
-chairs.png::CompressedTexture2D::5730933099285860345::1638816120::1743628667::1::::<><>::
-chairs_shadow.png::CompressedTexture2D::772451569988125974::1638816128::1743628667::1::::<><>::
-couches.png::CompressedTexture2D::3110648539378740104::1638747990::1743628668::1::::<><>::
-couches_shadow.png::CompressedTexture2D::3263809538670278361::1638749136::1743628668::1::::<><>::
-couchtables.png::CompressedTexture2D::2989588751863105646::1638749870::1743628668::1::::<><>::
-couchtables_shadow.png::CompressedTexture2D::3816243889150760401::1638749880::1743628668::1::::<><>::
-decorations.png::CompressedTexture2D::5508967006185674451::1638912488::1743628667::1::::<><>::
-kidsroom.png::CompressedTexture2D::2015319018089725983::1638749994::1743628667::1::::<><>::
-kidsroom_shadow.png::CompressedTexture2D::6358135515521652518::1638838000::1743628667::1::::<><>::
-kitchens_assembled.png::CompressedTexture2D::9131848777351263030::1638838240::1743628667::1::::<><>::
-kitchen_tiles.png::CompressedTexture2D::464641784377147419::1638851382::1743628667::1::::<><>::
-storage.png::CompressedTexture2D::3205173954693766137::1638563696::1743628667::1::::<><>::
-tables.png::CompressedTexture2D::8563019885315482326::1638732318::1743628667::1::::<><>::
-tables_shadow.png::CompressedTexture2D::4312398356495905976::1638749108::1743628667::1::::<><>::
-wallshelves.png::CompressedTexture2D::2051502384281453500::1638748246::1743628667::1::::<><>::
-wallshelves_shadow.png::CompressedTexture2D::5876355044030043175::1638748228::1743628667::1::::<><>::
-::res://Assets/interior full/pets/::1743628667
-cat animation.png::CompressedTexture2D::4107189864446462311::1638912612::1743628667::1::::<><>::
-pets.png::CompressedTexture2D::6548223378053682326::1638912618::1743628667::1::::<><>::
-yorkie animation.png::CompressedTexture2D::5623614989278395806::1638912624::1743628667::1::::<><>::
-::res://Assets/interior full/pets/aquariums/::1638904156
-::res://Assets/interior full/pets/budgie/::1638904168
-::res://Assets/interior full/pets/cat/::1638904178
-::res://Assets/interior full/pets/hamster/::1638904190
-::res://Assets/interior full/pets/yorkie/::1638904200
-::res://Assets/interior full/TV gifs/::1638735540
-::res://Assets/Top-Down_Retro_Interior/::1743628667
-TopDownHouse_DoorsAndWindows.png::CompressedTexture2D::2741944144215104542::1719519346::1743628667::1::::<><>::
-TopDownHouse_FloorsAndWalls.png::CompressedTexture2D::6867030173420782828::1719519346::1743628667::1::::<><>::
-TopDownHouse_FurnitureState1.png::CompressedTexture2D::2670064531287468227::1719519346::1743628667::1::::<><>::
-TopDownHouse_FurnitureState2.png::CompressedTexture2D::3994399631851716588::1719519346::1743628667::1::::<><>::
-TopDownHouse_SmallItems.png::CompressedTexture2D::7647908995409044169::1719519346::1743628667::1::::<><>::
+::res://::1743701344
+Guard- front.png::CompressedTexture2D::3393941050990799608::1743653956::1743701439::1::::<><>::
+Guard- right.png::CompressedTexture2D::1499647787767566393::1743653956::1743701439::1::::<><>::
+Guard-back.png::CompressedTexture2D::4785609614755013381::1743653956::1743701439::1::::<><>::
+Guard-left.png::CompressedTexture2D::8595990198927202257::1743653956::1743701439::1::::<><>::
+icon.svg::CompressedTexture2D::157663094819577650::1743546818::1743701439::1::::<><>::
+InnerMusuem.tscn::PackedScene::5676269891968304303::1743701408::0::1::::<><>::uid://ce5crmqdfxf8m::::res://tileset.tres<>uid://b77b4ni6uh8vp::::res://Thief.tscn
+Outermuseum.png::CompressedTexture2D::5443292922336491081::1743653956::1743701439::1::::<><>::
+OuterMuseum.tscn::PackedScene::7398625629634715679::1743701408::0::1::::<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://ce5crmqdfxf8m::::res://tileset.tres
+README.md::TextFile::-1::1743546613::0::1::::<><>::
+test.tscn::PackedScene::7819874984844551302::1743701426::0::1::::<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>res://officer.gd<>uid://bombyirsc15xc::::res://Guard- front.png
+thief.gd::GDScript::-1::1743701408::0::1::::<>CharacterBody2D<>::
+thief.png::CompressedTexture2D::1651249326993630713::1743701408::1743701439::1::::<><>::
+Thief.tscn::PackedScene::4698636969853584693::1743701408::0::1::::<><>::uid://b5v0wd5mce6di::::res://thief.gd<>uid://xr43npldwuqj::::res://thief.png
+tileset.tres::TileSet::5115680522183012330::1743701427::0::1::::<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://co1bxfkvlsoo4::::res://Assets/interior full/basics/wallpapers.png<>uid://ckqt48jgqpib0::::res://Assets/interior full/furniture/decorations.png<>uid://dt88xlr1gp1aw::::res://Assets/interior full/furniture/tables.png<>uid://4h07d5h70bia::::res://Assets/interior full/furniture/wallshelves.png<>uid://bebntqcsmx2xr::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState1.png<>uid://bw56gcf1gv31a::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState2.png
+::res://Assets/::1743657603
+::res://Assets/interior full/::1743657603
+global.png::CompressedTexture2D::7407073584079424026::1743653956::1743701446::1::::<><>::
+info.txt::TextFile::-1::1743653956::0::1::::<><>::
+read me.txt::TextFile::-1::1743653956::0::1::::<><>::
+::res://Assets/interior full/16x16/::1743656769
+bathroom16x16.png::CompressedTexture2D::2644418568159278405::1743653956::1743701440::1::::<><>::
+bathroom16x16_shadow.png::CompressedTexture2D::3445812238514547207::1743653956::1743701440::1::::<><>::
+beds16x16.png::CompressedTexture2D::7410912223282657969::1743653956::1743701440::1::::<><>::
+beds16x16_shadow.png::CompressedTexture2D::1522775969122098078::1743653956::1743701440::1::::<><>::
+couches16x16.png::CompressedTexture2D::8615524409841912967::1743653956::1743701440::1::::<><>::
+couches16x16_shadow.png::CompressedTexture2D::8307214553527121954::1743653956::1743701440::1::::<><>::
+couchtables16x16.png::CompressedTexture2D::89118374360341974::1743653956::1743701440::1::::<><>::
+couchtables16x16_shadow.png::CompressedTexture2D::489506978446668362::1743653956::1743701440::1::::<><>::
+::res://Assets/interior full/basics/::1743656264
+curtains.png::CompressedTexture2D::3470648217347698196::1743653956::1743701440::1::::<><>::
+doors.png::CompressedTexture2D::6438722805908031102::1743653956::1743701440::1::::<><>::
+fireplaces.png::CompressedTexture2D::6619323904514488245::1743653956::1743701440::1::::<><>::
+rugs.png::CompressedTexture2D::6005628174382256352::1743653956::1743701440::1::::<><>::
+stairs.png::CompressedTexture2D::1954503626695106676::1743653956::1743701440::1::::<><>::
+wallpapers.png::CompressedTexture2D::5809261069211151377::1743653956::1743701440::1::::<><>::
+::res://Assets/interior full/doors/::1743656130
+::res://Assets/interior full/fireplace and candles/::1743656264
+::res://Assets/interior full/furniture/::1743656264
+bathroom.png::CompressedTexture2D::7925411882219386635::1743653956::1743701440::1::::<><>::
+bathroom_shadow.png::CompressedTexture2D::5940861733722327713::1743653956::1743701440::1::::<><>::
+beds.png::CompressedTexture2D::7573164741786414670::1743653956::1743701441::1::::<><>::
+beds_shadow.png::CompressedTexture2D::2328820865100881797::1743653956::1743701440::1::::<><>::
+boxes.png::CompressedTexture2D::5047609479383917708::1743653956::1743701440::1::::<><>::
+chairs.png::CompressedTexture2D::5730933099285860345::1743653956::1743701440::1::::<><>::
+chairs_shadow.png::CompressedTexture2D::772451569988125974::1743653956::1743701440::1::::<><>::
+couches.png::CompressedTexture2D::3110648539378740104::1743653956::1743701440::1::::<><>::
+couches_shadow.png::CompressedTexture2D::3263809538670278361::1743653956::1743701441::1::::<><>::
+couchtables.png::CompressedTexture2D::2989588751863105646::1743653956::1743701440::1::::<><>::
+couchtables_shadow.png::CompressedTexture2D::3816243889150760401::1743653956::1743701440::1::::<><>::
+decorations.png::CompressedTexture2D::5508967006185674451::1743653956::1743701441::1::::<><>::
+kidsroom.png::CompressedTexture2D::2015319018089725983::1743653956::1743701439::1::::<><>::
+kidsroom_shadow.png::CompressedTexture2D::6358135515521652518::1743653956::1743701439::1::::<><>::
+kitchens_assembled.png::CompressedTexture2D::9131848777351263030::1743653956::1743701439::1::::<><>::
+kitchen_tiles.png::CompressedTexture2D::464641784377147419::1743653956::1743701440::1::::<><>::
+storage.png::CompressedTexture2D::3205173954693766137::1743653956::1743701439::1::::<><>::
+tables.png::CompressedTexture2D::8563019885315482326::1743653956::1743701439::1::::<><>::
+tables_shadow.png::CompressedTexture2D::4312398356495905976::1743653956::1743701439::1::::<><>::
+wallshelves.png::CompressedTexture2D::2051502384281453500::1743653956::1743701439::1::::<><>::
+wallshelves_shadow.png::CompressedTexture2D::5876355044030043175::1743653956::1743701439::1::::<><>::
+::res://Assets/interior full/pets/::1743657603
+cat animation.png::CompressedTexture2D::4107189864446462311::1743653956::1743701439::1::::<><>::
+pets.png::CompressedTexture2D::6548223378053682326::1743653956::1743701440::1::::<><>::
+yorkie animation.png::CompressedTexture2D::5623614989278395806::1743653956::1743701439::1::::<><>::
+::res://Assets/interior full/pets/aquariums/::1743657044
+::res://Assets/interior full/pets/budgie/::1743657603
+::res://Assets/interior full/pets/cat/::1743657603
+::res://Assets/interior full/pets/hamster/::1743656420
+::res://Assets/interior full/pets/yorkie/::1743656580
+::res://Assets/interior full/TV gifs/::1743656264
+::res://Assets/Top-Down_Retro_Interior/::1743657271
+TopDownHouse_DoorsAndWindows.png::CompressedTexture2D::2741944144215104542::1743653956::1743701439::1::::<><>::
+TopDownHouse_FloorsAndWalls.png::CompressedTexture2D::6867030173420782828::1743653956::1743701439::1::::<><>::
+TopDownHouse_FurnitureState1.png::CompressedTexture2D::2670064531287468227::1743653956::1743701439::1::::<><>::
+TopDownHouse_FurnitureState2.png::CompressedTexture2D::3994399631851716588::1743653956::1743701439::1::::<><>::
+TopDownHouse_SmallItems.png::CompressedTexture2D::7647908995409044169::1743653956::1743701439::1::::<><>::
