@@ -1,0 +1,77 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1743696731
+Guard- front.png::CompressedTexture2D/CompressedTexture2D::3393941050990799608::1743693159::1743693302::1::::<><><>0<>0<>8876680fd5d55ab879169b72d67f3248<>res://.godot/imported/Guard- front.png-c0b4b9e8abd1bde0f8f21fc00a23eb76.ctex::
+Guard- right.png::CompressedTexture2D/CompressedTexture2D::1499647787767566393::1743693159::1743693302::1::::<><><>0<>0<>6a5216dc701b95999f378e8032096edb<>res://.godot/imported/Guard- right.png-2c453a6b803bfe9e39a9a9b4fd024051.ctex::
+Guard-back.png::CompressedTexture2D/CompressedTexture2D::4785609614755013381::1743693159::1743693302::1::::<><><>0<>0<>83d865ceedd670dbcda39fbc6d36066e<>res://.godot/imported/Guard-back.png-ac878be2f1018d7dc0887de2f8442e16.ctex::
+Guard-left.png::CompressedTexture2D/CompressedTexture2D::8595990198927202257::1743693159::1743693302::1::::<><><>0<>0<>d0e332e050f837589fc5c4cd218cc3b7<>res://.godot/imported/Guard-left.png-b54beebcf2ba08ea1560a8d1accbd58b.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::157663094819577650::1743693159::1743693302::1::::<><><>0<>0<>11ff992085a663137d5b1715966e25c4<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+InnerMusuem.tscn::PackedScene/PackedScene::5676269891968304303::1743693326::0::1::::<><><>0<>0<><>::uid://ce5crmqdfxf8m::::res://tileset.tres
+Outermuseum.png::CompressedTexture2D/CompressedTexture2D::5443292922336491081::1743693159::1743693302::1::::<><><>0<>0<>f55cad5daf2290b9cb75d42b0b88f6f6<>res://.godot/imported/Outermuseum.png-ffb62b04a4c0c9497bd615b9639f2b19.ctex::
+OuterMuseum.tscn::PackedScene/PackedScene::7398625629634715679::1743693327::0::1::::<><><>0<>0<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://ce5crmqdfxf8m::::res://tileset.tres
+README.md::TextFile/TextFile::-1::1743693159::0::1::::<><><>0<>0<><>::
+thief.png::CompressedTexture2D/CompressedTexture2D::1651249326993630713::1743695445::1743695445::1::::<><><>0<>0<>cd35863b26b487cb20ffb6d2e32ec455<>res://.godot/imported/thief.png-e44b8f5d5e9859894499a059b8791355.ctex::
+Thief.tscn::PackedScene::4698636969853584693::1743696699::0::1::::<><><>0<>0<><>::uid://b5v0wd5mce6di::::res://scenes/thief.gd<>uid://xr43npldwuqj::::res://thief.png
+tileset.tres::TileSet/TileSet::5115680522183012330::1743696672::0::1::::<><><>0<>0<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://co1bxfkvlsoo4::::res://Assets/interior full/basics/wallpapers.png<>uid://ckqt48jgqpib0::::res://Assets/interior full/furniture/decorations.png<>uid://dt88xlr1gp1aw::::res://Assets/interior full/furniture/tables.png<>uid://4h07d5h70bia::::res://Assets/interior full/furniture/wallshelves.png<>uid://bebntqcsmx2xr::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState1.png<>uid://bw56gcf1gv31a::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState2.png
+::res://Assets/::1743693159
+::res://Assets/interior full/::1743693309
+global.png::CompressedTexture2D/CompressedTexture2D::7407073584079424026::1743693159::1743693309::1::::<><><>0<>0<>e96dc0c052f561023e3ceab8ccc07c40<>res://.godot/imported/global.png-873dd66c6f51343c5f8202236629acc1.ctex::
+info.txt::TextFile/TextFile::-1::1743693159::0::1::::<><><>0<>0<><>::
+read me.txt::TextFile/TextFile::-1::1743693159::0::1::::<><><>0<>0<><>::
+::res://Assets/interior full/16x16/::1743693303
+bathroom16x16.png::CompressedTexture2D/CompressedTexture2D::2644418568159278405::1743693159::1743693302::1::::<><><>0<>0<>6b6c309786b18dc8a373bc48e2efbd7a<>res://.godot/imported/bathroom16x16.png-752762934a6c253f147ad6c2b823ed9a.ctex::
+bathroom16x16_shadow.png::CompressedTexture2D/CompressedTexture2D::3445812238514547207::1743693159::1743693302::1::::<><><>0<>0<>ddf31f80b33f9b7663a56dc52652f30e<>res://.godot/imported/bathroom16x16_shadow.png-25be2509a998529869405668f502bc5d.ctex::
+beds16x16.png::CompressedTexture2D/CompressedTexture2D::7410912223282657969::1743693159::1743693303::1::::<><><>0<>0<>f777fd5bdbfe5d8effb9c24a51570741<>res://.godot/imported/beds16x16.png-22ef9860bfe6888014349b73648b0538.ctex::
+beds16x16_shadow.png::CompressedTexture2D/CompressedTexture2D::1522775969122098078::1743693159::1743693302::1::::<><><>0<>0<>b44d579d0a4e3292b20d59127b6c2991<>res://.godot/imported/beds16x16_shadow.png-46175525f31dce7854327c467e2957a6.ctex::
+couches16x16.png::CompressedTexture2D/CompressedTexture2D::8615524409841912967::1743693159::1743693302::1::::<><><>0<>0<>b5d47a7a6950331a11847de18e0c7412<>res://.godot/imported/couches16x16.png-5a6a29be0fbf8fc20b5f08496afe2127.ctex::
+couches16x16_shadow.png::CompressedTexture2D/CompressedTexture2D::8307214553527121954::1743693159::1743693302::1::::<><><>0<>0<>4cd4c32d9dd9daa80d39922c44c2cf05<>res://.godot/imported/couches16x16_shadow.png-c71fb1306eb7df4f4aed139c5c2c0752.ctex::
+couchtables16x16.png::CompressedTexture2D/CompressedTexture2D::89118374360341974::1743693159::1743693302::1::::<><><>0<>0<>3d3a92ed5fa5d535c67fd3c29a98e028<>res://.godot/imported/couchtables16x16.png-c313c9bcb40f30b30ddcc8f7eff368bf.ctex::
+couchtables16x16_shadow.png::CompressedTexture2D/CompressedTexture2D::489506978446668362::1743693159::1743693302::1::::<><><>0<>0<>637fdaafee35d0264a137f0fac58b916<>res://.godot/imported/couchtables16x16_shadow.png-d0bbdfed41999f7e912c6a2fe97a7852.ctex::
+::res://Assets/interior full/basics/::1743693303
+curtains.png::CompressedTexture2D/CompressedTexture2D::3470648217347698196::1743693159::1743693303::1::::<><><>0<>0<>d93f8565ce279690a3db3aa32e6df135<>res://.godot/imported/curtains.png-174e69e2d16546a78cae2a321686a8ac.ctex::
+doors.png::CompressedTexture2D/CompressedTexture2D::6438722805908031102::1743693159::1743693302::1::::<><><>0<>0<>35306451f6b3d6b6bdcb003d667682d2<>res://.godot/imported/doors.png-32294e76bfbf4ad8edd3d3f41c882a4f.ctex::
+fireplaces.png::CompressedTexture2D/CompressedTexture2D::6619323904514488245::1743693159::1743693302::1::::<><><>0<>0<>d7cc30b8416376c376e9d77900900665<>res://.godot/imported/fireplaces.png-f059f1dcd5b97035b2659b0312eaee56.ctex::
+rugs.png::CompressedTexture2D/CompressedTexture2D::6005628174382256352::1743693159::1743693303::1::::<><><>0<>0<>f0c697e8eb22c93d502b2de9e7c536cf<>res://.godot/imported/rugs.png-6ee579e1260f499eba1e3b6875f19cd5.ctex::
+stairs.png::CompressedTexture2D/CompressedTexture2D::1954503626695106676::1743693159::1743693302::1::::<><><>0<>0<>554e32693d8cecb59f80c38012a88fde<>res://.godot/imported/stairs.png-a18c94ae73cffb48835fa3673f3b7992.ctex::
+wallpapers.png::CompressedTexture2D/CompressedTexture2D::5809261069211151377::1743693159::1743693303::1::::<><><>0<>0<>b69578d0e811f4a90324563ae0856b0f<>res://.godot/imported/wallpapers.png-cb07e61cab90d1a98c72c1531fb7ab52.ctex::
+::res://Assets/interior full/doors/::1743693159
+::res://Assets/interior full/fireplace and candles/::1743693159
+::res://Assets/interior full/furniture/::1743693304
+bathroom.png::CompressedTexture2D/CompressedTexture2D::7925411882219386635::1743693159::1743693303::1::::<><><>0<>0<>2f82070dc34d831969d268fffcd2007c<>res://.godot/imported/bathroom.png-3ed368e5151de7f7b90e3239fda8a99e.ctex::
+bathroom_shadow.png::CompressedTexture2D/CompressedTexture2D::5940861733722327713::1743693159::1743693303::1::::<><><>0<>0<>1fc0451e6a3a3563ba3fc5051e32db04<>res://.godot/imported/bathroom_shadow.png-8243347413e474aafabff2764dd7aeea.ctex::
+beds.png::CompressedTexture2D/CompressedTexture2D::7573164741786414670::1743693159::1743693304::1::::<><><>0<>0<>7c6f93a982c977df9afcad4b65455b06<>res://.godot/imported/beds.png-047081ffaa393eda5935c43b61dadbce.ctex::
+beds_shadow.png::CompressedTexture2D/CompressedTexture2D::2328820865100881797::1743693159::1743693303::1::::<><><>0<>0<>800e873c26125ff1790990cdf4a0bb52<>res://.godot/imported/beds_shadow.png-81dda9702ed88739d4990d8abd292399.ctex::
+boxes.png::CompressedTexture2D/CompressedTexture2D::5047609479383917708::1743693159::1743693303::1::::<><><>0<>0<>6f56226e80bc85ccd6da3bd938791ca8<>res://.godot/imported/boxes.png-6fc7f75af53a7d9f8773d2471b085e87.ctex::
+chairs.png::CompressedTexture2D/CompressedTexture2D::5730933099285860345::1743693159::1743693303::1::::<><><>0<>0<>9f10ca3bb6b043e1c9fc808fcca73ec7<>res://.godot/imported/chairs.png-5121069eafb87bab1c0664ef9364f910.ctex::
+chairs_shadow.png::CompressedTexture2D/CompressedTexture2D::772451569988125974::1743693159::1743693303::1::::<><><>0<>0<>8322e08d5283be3f1001c9efaf29aee8<>res://.godot/imported/chairs_shadow.png-b70646389b6b10a461abf0fa8b8a22a8.ctex::
+couches.png::CompressedTexture2D/CompressedTexture2D::3110648539378740104::1743693159::1743693303::1::::<><><>0<>0<>4d4dd40a1092adb47385cc358297b97b<>res://.godot/imported/couches.png-1f671e99d76bfaa6f5680c58761c5139.ctex::
+couches_shadow.png::CompressedTexture2D/CompressedTexture2D::3263809538670278361::1743693159::1743693303::1::::<><><>0<>0<>6042ab18e92d6189a0c28916750d6aab<>res://.godot/imported/couches_shadow.png-999c551efd1f7f2b38231d9085a6ad5b.ctex::
+couchtables.png::CompressedTexture2D/CompressedTexture2D::2989588751863105646::1743693159::1743693303::1::::<><><>0<>0<>537f8b9108708b3d8ecbbaf3259faa42<>res://.godot/imported/couchtables.png-e5856dad319d39712858101a5f94b80a.ctex::
+couchtables_shadow.png::CompressedTexture2D/CompressedTexture2D::3816243889150760401::1743693159::1743693303::1::::<><><>0<>0<>acbcbb8f2ca0eb8e71e919b511d32d78<>res://.godot/imported/couchtables_shadow.png-57601261fdeb499b8fa9d783c3237ac9.ctex::
+decorations.png::CompressedTexture2D/CompressedTexture2D::5508967006185674451::1743693159::1743693302::1::::<><><>0<>0<>6ab3151048952d2b278ee33d2e425535<>res://.godot/imported/decorations.png-ea759d4907282cfb2e3e6b4118826cfb.ctex::
+kidsroom.png::CompressedTexture2D/CompressedTexture2D::2015319018089725983::1743693159::1743693302::1::::<><><>0<>0<>6ac11701aa5da1a9d87ddd68ee39f078<>res://.godot/imported/kidsroom.png-4f7a7853b996cff19e5e6922cda23533.ctex::
+kidsroom_shadow.png::CompressedTexture2D/CompressedTexture2D::6358135515521652518::1743693159::1743693302::1::::<><><>0<>0<>80d972ad877bc40e403fe4b0d0aa987f<>res://.godot/imported/kidsroom_shadow.png-cbf72fe115359867c6848ce5302f61ac.ctex::
+kitchens_assembled.png::CompressedTexture2D/CompressedTexture2D::9131848777351263030::1743693159::1743693302::1::::<><><>0<>0<>5adb13cc93e4b070d8fb197e8c95fa51<>res://.godot/imported/kitchens_assembled.png-e261e1e6d3f20cd3e1bdd1b836ecaed5.ctex::
+kitchen_tiles.png::CompressedTexture2D/CompressedTexture2D::464641784377147419::1743693159::1743693302::1::::<><><>0<>0<>7b2fe32517f03e0a18387b3af3581137<>res://.godot/imported/kitchen_tiles.png-c1e5d929b9595446281f5c6f6d144b4a.ctex::
+storage.png::CompressedTexture2D/CompressedTexture2D::3205173954693766137::1743693159::1743693302::1::::<><><>0<>0<>c89e74661583e0d43f34ef2a28686594<>res://.godot/imported/storage.png-6dd425f53bba9ce36faeba6c412202fd.ctex::
+tables.png::CompressedTexture2D/CompressedTexture2D::8563019885315482326::1743693159::1743693302::1::::<><><>0<>0<>10a80197abedb3986d7e022631c45ac4<>res://.godot/imported/tables.png-9342fbeefded49f1da83450a55f65930.ctex::
+tables_shadow.png::CompressedTexture2D/CompressedTexture2D::4312398356495905976::1743693159::1743693302::1::::<><><>0<>0<>b2f4e57cc4271f4ca5b4c9f2b88b9048<>res://.godot/imported/tables_shadow.png-e9906c13c60c64f2f236ab47b486c1e5.ctex::
+wallshelves.png::CompressedTexture2D/CompressedTexture2D::2051502384281453500::1743693159::1743693302::1::::<><><>0<>0<>e031bca0d19acd8092c931cb73b90f0a<>res://.godot/imported/wallshelves.png-dcce7fdc52ed16fe64948d1a808b0d21.ctex::
+wallshelves_shadow.png::CompressedTexture2D/CompressedTexture2D::5876355044030043175::1743693159::1743693302::1::::<><><>0<>0<>b9961e7e487d21e512c1aade5ceb6789<>res://.godot/imported/wallshelves_shadow.png-76bcc9563f2288520828a0fc6bc02696.ctex::
+::res://Assets/interior full/pets/::1743693302
+cat animation.png::CompressedTexture2D/CompressedTexture2D::4107189864446462311::1743693159::1743693302::1::::<><><>0<>0<>3f0902373f8ad8acb4a3a9da324b96bb<>res://.godot/imported/cat animation.png-da4d4f75f6a9e3eaffbbb2cf572675ea.ctex::
+pets.png::CompressedTexture2D/CompressedTexture2D::6548223378053682326::1743693159::1743693302::1::::<><><>0<>0<>66cbaf44761cf0d0f10f20739d898869<>res://.godot/imported/pets.png-a40c995b34be13bd8fc7bc4f891e8cf9.ctex::
+yorkie animation.png::CompressedTexture2D/CompressedTexture2D::5623614989278395806::1743693159::1743693302::1::::<><><>0<>0<>efb1b72c2a60523f467f9213234ef052<>res://.godot/imported/yorkie animation.png-2e75d8b9e8a09e41123b2e071d389a4f.ctex::
+::res://Assets/interior full/pets/aquariums/::1743693159
+::res://Assets/interior full/pets/budgie/::1743693159
+::res://Assets/interior full/pets/cat/::1743693159
+::res://Assets/interior full/pets/hamster/::1743693159
+::res://Assets/interior full/pets/yorkie/::1743693159
+::res://Assets/interior full/TV gifs/::1743693159
+::res://Assets/Top-Down_Retro_Interior/::1743693302
+TopDownHouse_DoorsAndWindows.png::CompressedTexture2D/CompressedTexture2D::2741944144215104542::1743693159::1743693302::1::::<><><>0<>0<>aaec8fe8a573cd6ff80d18572505ecc6<>res://.godot/imported/TopDownHouse_DoorsAndWindows.png-3ce0f6ef620fcd4d121a8d40bd9a701a.ctex::
+TopDownHouse_FloorsAndWalls.png::CompressedTexture2D/CompressedTexture2D::6867030173420782828::1743693159::1743693302::1::::<><><>0<>0<>29ec80b05f884f778c013da72f517134<>res://.godot/imported/TopDownHouse_FloorsAndWalls.png-195fe91939e40d7c326c2878c5cfa7e7.ctex::
+TopDownHouse_FurnitureState1.png::CompressedTexture2D/CompressedTexture2D::2670064531287468227::1743693159::1743693302::1::::<><><>0<>0<>046938013a5bff891c3522ecba7e4d12<>res://.godot/imported/TopDownHouse_FurnitureState1.png-98858b96a7894ce86695ab8c3d330d79.ctex::
+TopDownHouse_FurnitureState2.png::CompressedTexture2D/CompressedTexture2D::3994399631851716588::1743693159::1743693302::1::::<><><>0<>0<>681c146c3f51a369e7df1a2deb42c762<>res://.godot/imported/TopDownHouse_FurnitureState2.png-e5ba2b949457efb40f09eae6039591a0.ctex::
+TopDownHouse_SmallItems.png::CompressedTexture2D/CompressedTexture2D::7647908995409044169::1743693159::1743693302::1::::<><><>0<>0<>81eff2ac93dc112efcd33b3995118139<>res://.godot/imported/TopDownHouse_SmallItems.png-d81fb2b71ecddb64a35302e60e84c662.ctex::
+::res://scenes/::1743696731
+thief.gd::GDScript::4536995342416671018::1743694790::0::1::::<>CharacterBody2D<><>0<>0<><>::
