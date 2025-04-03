@@ -1,6 +1,6 @@
 [gd_scene load_steps=18 format=3 uid="uid://b77b4ni6uh8vp"]
 
-[ext_resource type="Script" path="res://thief.gd" id="1_6rq1s"]
+[ext_resource type="Script" uid="uid://b5v0wd5mce6di" path="res://thief.gd" id="1_6rq1s"]
 [ext_resource type="Texture2D" uid="uid://xr43npldwuqj" path="res://thief.png" id="2_yfxls"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_lcg6i"]

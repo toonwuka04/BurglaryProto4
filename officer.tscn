@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://dy1ry15q2obn5"]
 
-[ext_resource type="Script" path="res://officer.gd" id="1_dxgci"]
+[ext_resource type="Script" uid="uid://bh4snnhx7b5dd" path="res://officer.gd" id="1_dxgci"]
 [ext_resource type="Texture2D" uid="uid://dqe8m553uj2mm" path="res://Light.png" id="2_bj5pj"]
 [ext_resource type="Texture2D" uid="uid://bombyirsc15xc" path="res://Guard- front.png" id="3_f760k"]
 
