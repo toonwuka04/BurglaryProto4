@@ -1,13 +1,8 @@
-[gd_scene load_steps=7 format=4 uid="uid://cm4vlogtnofo6"]
+[gd_scene load_steps=4 format=4 uid="uid://cm4vlogtnofo6"]
 
 [ext_resource type="TileSet" uid="uid://ce5crmqdfxf8m" path="res://tileset.tres" id="1_42ak6"]
 [ext_resource type="PackedScene" uid="uid://b77b4ni6uh8vp" path="res://Thief.tscn" id="2_b08ww"]
-[ext_resource type="Script" path="res://officer.gd" id="3_c717y"]
-[ext_resource type="Texture2D" uid="uid://bombyirsc15xc" path="res://Guard- front.png" id="4_g82uh"]
-[ext_resource type="Texture2D" uid="uid://dqe8m553uj2mm" path="res://Light.png" id="4_x1y88"]
-
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_rdsxt"]
-size = Vector2(54, 20)
+[ext_resource type="PackedScene" uid="uid://dy1ry15q2obn5" path="res://officer.tscn" id="3_c2i3t"]
 
 [node name="Node2D" type="Node2D"]
 
@@ -41,29 +36,5 @@ texture_filter = 1
 position = Vector2(366, 1033)
 collision_mask = 2
 
-[node name="Officer" type="CharacterBody2D" parent="."]
-script = ExtResource("3_c717y")
-
-[node name="Flashlight" type="Area2D" parent="Officer"]
-position = Vector2(365, 454)
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Officer/Flashlight"]
-position = Vector2(17, 0)
-shape = SubResource("RectangleShape2D_rdsxt")
-
-[node name="Sprite2D" type="Sprite2D" parent="Officer/Flashlight/CollisionShape2D"]
-texture_filter = 1
-position = Vector2(1.60532, 5.72205e-06)
-scale = Vector2(0.0629437, 0.0410959)
-texture = ExtResource("4_x1y88")
-
-[node name="Sprite2D" type="Sprite2D" parent="Officer"]
-z_index = 1
-texture_filter = 1
-position = Vector2(352, 453)
-texture = ExtResource("4_g82uh")
-
-[node name="Timer" type="Timer" parent="Officer"]
-
-[connection signal="body_entered" from="Officer/Flashlight" to="Thief" method="_on_area_2d_body_entered"]
-[connection signal="timeout" from="Officer/Timer" to="Officer" method="_on_timer_timeout"]
+[node name="Officer" parent="." instance=ExtResource("3_c2i3t")]
+position = Vector2(-67, 0)
