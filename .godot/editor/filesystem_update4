@@ -2,3 +2,5 @@ res://InnerMusuem.tscn
 res://tileset.tres
 res://officer.gd
 res://Thief.tscn
+res://officer.tscn
+res://thief.gd

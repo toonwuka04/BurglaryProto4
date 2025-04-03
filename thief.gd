@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-const SPEED = 200.0
+const SPEED = 150.0
 @onready var sprite_2d = $Sprite2D
 
 func _physics_process(_delta):
@@ -26,5 +26,5 @@ func update_animation(direction: Vector2):
 
 
 func _on_area_2d_body_entered(body: Node2D) -> void:
-	get_tree().change_scene_to_file("res://InnerMusuem.tscn")
+	#get_tree().change_scene_to_file("res://InnerMusuem.tscn")
 	pass # Replace with function body.
