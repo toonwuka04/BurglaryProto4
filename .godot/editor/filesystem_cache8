@@ -1,15 +1,18 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1743677401
+::res://::1743701083
 Guard- front.png::CompressedTexture2D::3393941050990799608::1743444336::1743628667::1::::<><>::
 Guard- right.png::CompressedTexture2D::1499647787767566393::1743443820::1743628667::1::::<><>::
 Guard-back.png::CompressedTexture2D::4785609614755013381::1743444541::1743628667::1::::<><>::
 Guard-left.png::CompressedTexture2D::8595990198927202257::1743443655::1743628667::1::::<><>::
 icon.svg::CompressedTexture2D::157663094819577650::1743549773::1743628667::1::::<><>::
-InnerMusuem.tscn::PackedScene::5676269891968304303::1743677358::0::1::::<><>::uid://ce5crmqdfxf8m::::res://tileset.tres
+InnerMusuem.tscn::PackedScene::5676269891968304303::1743701043::0::1::::<><>::uid://ce5crmqdfxf8m::::res://tileset.tres<>uid://b77b4ni6uh8vp::::res://Thief.tscn
 Outermuseum.png::CompressedTexture2D::5443292922336491081::1743628573::1743628687::1::::<><>::
-OuterMuseum.tscn::PackedScene::7398625629634715679::1743667972::0::1::::<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://ce5crmqdfxf8m::::res://tileset.tres
+OuterMuseum.tscn::PackedScene::7398625629634715679::1743700794::0::1::::<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://ce5crmqdfxf8m::::res://tileset.tres
 README.md::TextFile::-1::1743549773::0::1::::<><>::
-tileset.tres::TileSet::5115680522183012330::1743676962::0::1::::<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://co1bxfkvlsoo4::::res://Assets/interior full/basics/wallpapers.png<>uid://ckqt48jgqpib0::::res://Assets/interior full/furniture/decorations.png<>uid://dt88xlr1gp1aw::::res://Assets/interior full/furniture/tables.png<>uid://4h07d5h70bia::::res://Assets/interior full/furniture/wallshelves.png<>uid://bebntqcsmx2xr::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState1.png<>uid://bw56gcf1gv31a::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState2.png
+thief.gd::GDScript::-1::1743700689::0::1::::<>CharacterBody2D<>::
+thief.png::CompressedTexture2D::1651249326993630713::1743700689::1743700689::1::::<><>::
+Thief.tscn::PackedScene::4698636969853584693::1743700689::0::1::::<><>::uid://b5v0wd5mce6di::::res://thief.gd<>uid://xr43npldwuqj::::res://thief.png
+tileset.tres::TileSet::5115680522183012330::1743700760::0::1::::<><>::uid://cjs1iep1sxhkb::::res://Outermuseum.png<>uid://co1bxfkvlsoo4::::res://Assets/interior full/basics/wallpapers.png<>uid://ckqt48jgqpib0::::res://Assets/interior full/furniture/decorations.png<>uid://dt88xlr1gp1aw::::res://Assets/interior full/furniture/tables.png<>uid://4h07d5h70bia::::res://Assets/interior full/furniture/wallshelves.png<>uid://bebntqcsmx2xr::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState1.png<>uid://bw56gcf1gv31a::::res://Assets/Top-Down_Retro_Interior/TopDownHouse_FurnitureState2.png
 ::res://Assets/::1743550048
 ::res://Assets/interior full/::1743628671
 global.png::CompressedTexture2D::7407073584079424026::1638913300::1743628671::1::::<><>::
