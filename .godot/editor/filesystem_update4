@@ -1,5 +1,5 @@
-res://OuterMuseum.tscn
-res://tileset.tres
-res://test.tscn
 res://InnerMusuem.tscn
+res://tileset.tres
+res://thief.gd
+res://Thief.tscn
 res://officer.gd

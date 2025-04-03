@@ -1,4 +1,4 @@
-[gd_scene load_steps=18 format=3 uid="uid://d1hserbjcyiky"]
+[gd_scene load_steps=18 format=3 uid="uid://b77b4ni6uh8vp"]
 
 [ext_resource type="Script" path="res://thief.gd" id="1_6rq1s"]
 [ext_resource type="Texture2D" uid="uid://xr43npldwuqj" path="res://thief.png" id="2_yfxls"]
@@ -139,3 +139,4 @@ position = Vector2(1, 0)
 shape = SubResource("CapsuleShape2D_fnipa")
 
 [node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(2, 2)
